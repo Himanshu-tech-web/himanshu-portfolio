@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 420" fill="none">
+  <title>Developer working on a laptop</title>
+  <desc>Minimal black and orange editorial illustration of a developer working on a laptop while sitting on an orange beanbag.</desc>
+  <rect width="520" height="420" fill="#FFFCF9"/>
+
+  <!-- subtle room details -->
+  <line x1="372" y1="18" x2="372" y2="66" stroke="#111111" stroke-width="2" stroke-dasharray="3 5"/>
+  <path d="M352 66H392L401 83H343L352 66Z" fill="#111111"/>
+  <circle cx="372" cy="88" r="5" fill="#F47B20"/>
+  <path d="M389 83L356 151H409L389 83Z" fill="#FFF3E8" opacity="0.72"/>
+
+  <!-- shelf -->
+  <line x1="407" y1="72" x2="495" y2="72" stroke="#111111" stroke-width="3" stroke-linecap="round"/>
+  <rect x="419" y="39" width="11" height="33" rx="1.5" fill="#111111"/>
+  <rect x="433" y="30" width="11" height="42" rx="1.5" fill="#FFFCF9" stroke="#111111" stroke-width="2"/>
+  <rect x="447" y="45" width="10" height="27" rx="1.5" fill="#F47B20"/>
+  <path d="M469 72C466 57 469 46 479 39C484 48 480 60 477 72H469Z" fill="#F47B20"/>
+  <path d="M474 42C465 30 468 21 478 16C484 25 481 34 477 42Z" fill="#FFFCF9" stroke="#111111" stroke-width="1.7"/>
+  <path d="M480 42C486 30 495 26 500 24C499 34 491 41 482 45Z" fill="#F47B20" stroke="#111111" stroke-width="1.7"/>
+
+  <!-- beanbag -->
+  <path d="M220 176C270 151 356 164 392 223C418 265 419 344 381 379C351 407 275 411 223 394C179 380 165 348 169 305C173 260 188 194 220 176Z" fill="#F47B20" stroke="#111111" stroke-width="3.5" stroke-linejoin="round"/>
+  <path d="M376 221C397 268 397 337 368 370" stroke="#D9650E" stroke-width="3" stroke-linecap="round" opacity="0.55"/>
+
+  <!-- legs -->
+  <path d="M251 286C270 300 294 327 316 351L293 374C267 349 242 326 226 308L251 286Z" fill="#25384C" stroke="#111111" stroke-width="3"/>
+  <path d="M225 302C242 312 251 320 261 334L239 354C219 340 207 328 199 315L225 302Z" fill="#111111"/>
+
+  <!-- shoes -->
+  <path d="M291 360C303 363 322 370 328 379C333 387 326 393 312 393H278C269 393 264 387 270 380L291 360Z" fill="#FFFCF9" stroke="#111111" stroke-width="3"/>
+  <path d="M274 380H322" stroke="#F47B20" stroke-width="3" stroke-linecap="round"/>
+  <path d="M226 345C237 348 250 357 255 365C259 373 253 379 240 379H207C198 379 193 373 199 366L226 345Z" fill="#FFFCF9" stroke="#111111" stroke-width="3"/>
+  <path d="M202 366H249" stroke="#F47B20" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- torso -->
+  <path d="M213 169C236 151 274 153 294 177C309 196 319 226 317 257C306 274 278 286 247 279C225 264 209 238 201 210C198 194 202 179 213 169Z" fill="#FFFCF9" stroke="#111111" stroke-width="3.5"/>
+
+  <!-- arm -->
+  <path d="M281 188C299 197 313 210 326 225L307 240C292 226 279 216 263 209L281 188Z" fill="#FFFCF9" stroke="#111111" stroke-width="3" stroke-linejoin="round"/>
+
+  <!-- neck -->
+  <path d="M218 155L216 174C223 184 238 186 246 176L247 154Z" fill="#FFFCF9" stroke="#111111" stroke-width="3"/>
+
+  <!-- head -->
+  <path d="M188 111C190 82 213 65 243 69C268 72 279 91 274 119C271 140 259 156 239 162C219 167 193 152 188 128V111Z" fill="#FFFCF9" stroke="#111111" stroke-width="3"/>
+  <path d="M190 112C181 90 191 63 217 57C243 51 266 64 270 88C272 102 266 111 256 115C246 101 231 97 214 99C206 100 198 105 190 112Z" fill="#111111"/>
+  <circle cx="244" cy="115" r="10" fill="#FFFCF9" stroke="#111111" stroke-width="2.5"/>
+  <circle cx="244" cy="115" r="3" fill="#111111"/>
+  <path d="M235 115L225 113" stroke="#111111" stroke-width="2.2" stroke-linecap="round"/>
+  <path d="M241 130C248 134 254 131 257 126" stroke="#111111" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- laptop -->
+  <path d="M139 214L217 192L226 247L148 265L139 214Z" fill="#FFFCF9" stroke="#111111" stroke-width="3" stroke-linejoin="round"/>
+  <circle cx="183" cy="227" r="5" fill="#F47B20"/>
+  <path d="M130 261L224 240L239 259L145 282L130 261Z" fill="#EAE7E3" stroke="#111111" stroke-width="3" stroke-linejoin="round"/>
+
+  <!-- baseline -->
+  <line x1="92" y1="397" x2="484" y2="397" stroke="#111111" stroke-width="3.5" stroke-linecap="round"/>
+
+  <!-- tiny side accents -->
+  <circle cx="111" cy="169" r="5" fill="#F47B20"/>
+  <path d="M418 165L425 172M425 165L418 172" stroke="#F47B20" stroke-width="2" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 340" fill="none">
+  <title>Developer taking a coffee break</title>
+  <desc>Minimal black and orange editorial illustration of a developer relaxing with coffee and books.</desc>
+  <rect width="440" height="340" fill="#FFFCF9"/>
+
+  <!-- soft window -->
+  <path d="M58 274V139C58 83 115 47 190 47C265 47 322 83 322 139V274H58Z" fill="#FFF3E8"/>
+  <path d="M58 274V139C58 83 115 47 190 47C265 47 322 83 322 139V274" stroke="#EAE7E3" stroke-width="2.5"/>
+  <path d="M190 50V274M61 151H319" stroke="#EAE7E3" stroke-width="2"/>
+
+  <!-- person -->
+  <path d="M154 120C153 96 170 79 194 80C216 81 228 98 224 121C221 142 208 153 189 155C171 156 157 143 154 120Z" fill="#FFFCF9" stroke="#111111" stroke-width="3"/>
+  <path d="M156 112C149 91 162 70 184 67C208 64 225 77 228 97C229 108 224 116 215 120C208 108 197 101 183 102C173 103 164 107 156 112Z" fill="#111111"/>
+  <circle cx="205" cy="117" r="8.5" fill="#FFFCF9" stroke="#111111" stroke-width="2.2"/>
+  <circle cx="205" cy="117" r="2.6" fill="#111111"/>
+  <path d="M197 117L190 115" stroke="#111111" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- torso -->
+  <path d="M151 150C166 142 207 143 223 158C236 171 244 201 249 238L127 238C132 199 138 168 151 150Z" fill="#FFFCF9" stroke="#111111" stroke-width="3.2" stroke-linejoin="round"/>
+
+  <!-- relaxed arm -->
+  <path d="M204 174C220 180 231 190 243 205" stroke="#111111" stroke-width="3" stroke-linecap="round"/>
+  <path d="M243 205C252 213 258 220 264 229" stroke="#111111" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- coffee cup -->
+  <rect x="247" y="210" width="28" height="31" rx="5" fill="#F47B20" stroke="#111111" stroke-width="2.5"/>
+  <path d="M275 217C286 216 286 236 275 235" stroke="#111111" stroke-width="2.2"/>
+  <path d="M254 200C250 192 257 188 254 181M266 201C262 193 269 188 266 181" stroke="#F47B20" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- books -->
+  <rect x="285" y="245" width="75" height="16" rx="2" fill="#FFFCF9" stroke="#111111" stroke-width="2.5"/>
+  <rect x="293" y="229" width="67" height="16" rx="2" fill="#F47B20" stroke="#111111" stroke-width="2.5"/>
+  <rect x="279" y="213" width="81" height="16" rx="2" fill="#111111"/>
+  <line x1="303" y1="237" x2="345" y2="237" stroke="#FFFCF9" stroke-width="1.6"/>
+
+  <!-- little plant -->
+  <path d="M91 273C92 258 94 247 101 238" stroke="#111111" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M101 244C90 235 84 226 87 217C99 219 105 230 104 242" fill="#F47B20" stroke="#111111" stroke-width="1.7"/>
+  <path d="M101 242C105 229 116 221 125 220C124 233 115 242 103 247" fill="#FFFCF9" stroke="#111111" stroke-width="1.7"/>
+
+  <!-- baseline -->
+  <line x1="62" y1="275" x2="372" y2="275" stroke="#111111" stroke-width="3.5" stroke-linecap="round"/>
+
+  <!-- accents -->
+  <circle cx="85" cy="172" r="4.5" fill="#F47B20"/>
+  <path d="M345 165L351 171M351 165L345 171" stroke="#F47B20" stroke-width="1.8" stroke-linecap="round"/>
+</svg>

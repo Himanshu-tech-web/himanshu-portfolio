@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Replace YOUR_PRODUCTION_DOMAIN with live site domain upon deployment
+# Sitemap: https://YOUR_PRODUCTION_DOMAIN/sitemap.xml
